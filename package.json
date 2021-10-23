@@ -1,7 +1,7 @@
 {
   "name": "todo-list",
   "version": "1.0.0",
-  "homepage": "https://elyseeloo.github.io/ToDo-List/"
+  "homepage": "https://elyseeloo.github.io/ToDo-List/",
   "description": "A mini To Do List app",
   "keywords": [],
   "main": "src/index.js",
