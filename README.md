@@ -21,7 +21,7 @@
 
 This project was an introduction in learning React. I learned React syntax, or JSX, React Hooks, specificaly useState, and conditionals, among other things. This was a very new and interesting way to use JavaScript that I never had before, and I'm excited to make more React projects and see what else the language is capable of achieving. 
 
-Code written in this porject that I am proud of:
+Code written in this project that I am proud of:
 
 ```JSX
 function deleteItem(id) {
